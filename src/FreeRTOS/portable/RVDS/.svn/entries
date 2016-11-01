@@ -1,0 +1,43 @@
+10
+
+dir
+31
+svn://192.168.0.10/sva/trunk/vrc3k/src/FreeRTOS/portable/RVDS
+svn://192.168.0.10/sva
+
+
+
+2015-05-15T06:47:33.464495Z
+7
+tani223
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7cb663c2-ef80-44cc-a03c-0d184528c883
+
+ARM_CM3
+dir
+
+ARM7_LPC21xx
+dir
+
+ARM_CM4F
+dir
+
+ARM_CA9
+dir
+
+ARM_CM0
+dir
+

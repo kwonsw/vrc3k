@@ -1,0 +1,109 @@
+10
+
+dir
+31
+svn://192.168.0.10/sva/trunk/vrc3k/src/FreeRTOS/portable/GCC
+svn://192.168.0.10/sva
+
+
+
+2015-05-15T06:47:33.464495Z
+7
+tani223
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7cb663c2-ef80-44cc-a03c-0d184528c883
+
+RX600
+dir
+
+ARM7_AT91SAM7S
+dir
+
+HCS12
+dir
+
+ARM_CM3
+dir
+
+H8S2329
+dir
+
+MCF5235
+dir
+
+ATMega323
+dir
+
+RX600v2
+dir
+
+MicroBlaze
+dir
+
+TriCore_1782
+dir
+
+ARM7_AT91FR40008
+dir
+
+ARM_CM4F
+dir
+
+ARM7_LPC23xx
+dir
+
+NiosII
+dir
+
+MSP430F449
+dir
+
+ColdFire_V2
+dir
+
+ARM_CM3_MPU
+dir
+
+CORTUS_APS3
+dir
+
+MicroBlazeV8
+dir
+
+PPC440_Xilinx
+dir
+
+ARM7_LPC2000
+dir
+
+PPC405_Xilinx
+dir
+
+AVR32_UC3
+dir
+
+RX100
+dir
+
+ARM_CA9
+dir
+
+STR75x
+dir
+
+ARM_CM0
+dir
+
